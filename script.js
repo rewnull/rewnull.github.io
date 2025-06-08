@@ -5,7 +5,8 @@ const videoUrls = [
       "https://www.youtube.com/watch?v=CYHMovVEsYU",
       "https://www.youtube.com/watch?v=fMDr_luEqS8",
       "https://www.youtube.com/watch?v=IXhmu1aQSOY",
-      "https://www.youtube.com/watch?v=B5YokNW7tIs"
+      "https://www.youtube.com/watch?v=B5YokNW7tIs",
+      "https://youtu.be/_OlKGD0_19E?t=766"
     ];
 
     const container = document.getElementById("video-list");
